@@ -1,0 +1,17 @@
+
+  .social-media-icons {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .social-media-icons img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .social-media-icons img:hover{
+    background-color: lightblue
+  }

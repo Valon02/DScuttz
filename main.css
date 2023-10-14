@@ -1,0 +1,133 @@
+
+.bilder {
+    overflow: hidden;
+    position: relative;
+
+  }
+  
+  .banner{
+    overflow: hidden;
+    opacity: 0.5;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    height: 300px; 
+  }
+
+  .profile{
+    position: relative;
+    overflow: hidden;
+    opacity: 1;
+    margin: 1px;
+    margin-bottom: 0;
+  }
+
+.contentbox1{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+margin: 10px;
+gap: 10px;
+background-color: white;
+margin: 2rem;
+border: 2px solid black;
+}
+
+.contentbox2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+
+
+
+
+.content-section1{
+    gap: 10px;
+    width: 40rem;
+    height: 15rem;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.content-section1:hover{
+  background-color: darkgray;
+}
+
+.content-section2{
+    width: 40rem;
+    height: 15rem;
+    gap: 10px;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px; 
+    margin: 10px; 
+}
+.content-section2:hover{
+  background-color: darkgray;
+}
+
+.bild1{
+  display: flex;
+  margin-right: auto;
+  margin: 10px;
+}
+
+
+.content-section3{
+    gap: 10px;
+    width: 40rem;
+    height: 15rem;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-inline-end: auto;
+    padding: 20px;
+    margin: 10px;
+}
+.content-section3:hover{
+  background-color: darkgray;
+}
+.content-section4{
+    gap: 10px;
+    width: 40rem;
+    height: 15rem;
+    background-color: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-inline: auto;
+    border: 2px solid black;
+    padding: 20px;
+  }
+  .content-section4:hover{
+    background-color: darkgray;
+  }
+
+  .bild2{
+   margin-right: auto;
+   margin: 10px;
+  }
+.del2{
+    background-color: lightgray;
+    color: black;
+}
+
+
+

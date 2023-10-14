@@ -1,0 +1,25 @@
+
+.navbar{
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar a{
+    float: left;
+    font-size: 15px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: dashed; 
+    
+    
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+
+}
+
